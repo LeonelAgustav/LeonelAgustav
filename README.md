@@ -60,7 +60,7 @@ Hi there! I'm **Leonel Agustav**, a Fullstack Developer Student from Indonesia. 
 
 <div align="center">
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonelAgustav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonelAgustav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelAgustav&layout=compact&theme=dracula&hide=css,html,blade"/>
   </p>
   
