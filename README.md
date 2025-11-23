@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Leonel Agustav**, a Fullstack Developer Student from Indonesia. I love building solutions that solve real-world problems, ranging from mobile apps to web systems.
+Hi there! I'm **Leonel Agustav**, a Fullstack Developer Student from Indonesia.
 
 * 🔭 I’m currently working on **FruitSense** (Mobile) & **SembakoPOS** (System).
 * 🌱 I’m currently learning **Flutter State Management** & **Backend Integration**.
@@ -70,10 +70,10 @@ Hi there! I'm **Leonel Agustav**, a Fullstack Developer Student from Indonesia. 
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/USERNAME-LINKEDIN-KAMU" target="_blank">
+  <a href="https://www.linkedin.com/in/leonel-agustav-942a7b30a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:EMAIL-KAMU@GMAIL.COM">
+  <a href="mailto:marcelinoagustav@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
