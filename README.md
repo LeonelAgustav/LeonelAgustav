@@ -52,7 +52,6 @@ Hi there! I'm **Leonel Agustav**, a Fullstack Developer Student from Indonesia.
 | **FruitSense** | 📱 Mobile | `Flutter` `Kotlin` `ML` `node.js` | 🚧 Active |
 | **EnerTrack** | 🌐 Web | `Laravel` `Blade` `MySQL` `Golang` | ✅ Completed |
 | **PortoFolio Web** | 🌐 Web | `HTML` `CSS` `JS` | ✅ Completed |
-| **QuizMobProg** | 📱 Mobile | `Kotlin` `Android` | ✅ Completed |
 
 ---
 
