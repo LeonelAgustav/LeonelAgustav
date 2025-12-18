@@ -14,7 +14,7 @@
 
 Hi there! I'm **Leonel Agustav**, a Fullstack Developer Student from Indonesia.
 
-* 🔭 I’m currently working on **FruitSense** (Mobile) & **SembakoPOS** (System).
+* 🔭 I’m currently working on **CafeRestoPOS** (System).
 * 🌱 I’m currently learning **Flutter State Management** & **Backend Integration**.
 * ⚡ Fun fact: I can switch between **Kotlin (Native)** and **Flutter (Hybrid)** depending on the project needs!
 
@@ -49,7 +49,7 @@ Hi there! I'm **Leonel Agustav**, a Fullstack Developer Student from Indonesia.
 
 | Project Name | Type | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **FruitSense** | 📱 Mobile | `Flutter` `Kotlin` `ML` `node.js` | 🚧 Active |
+| **FruitSense** | 📱 Mobile | `Flutter` `Kotlin` `ML` `node.js` | ✅ Completed |
 | **EnerTrack** | 🌐 Web | `Laravel` `Blade` `MySQL` `Golang` | ✅ Completed |
 | **PortoFolio Web** | 🌐 Web | `HTML` `CSS` `JS` | ✅ Completed |
 
